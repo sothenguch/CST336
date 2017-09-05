@@ -5,7 +5,7 @@
     </head>
     <body class = "m1">
         <nav class = "n1">
-            <b href="index.html" alt="Home"> Main Page </b>
+            <b href="index.php" alt="Home"> Main Page </b>
             <a href="about.html" alt="Home"> About </a>
             <a href="contact.html" alt="Home"> Contact </a>
         </nav>
