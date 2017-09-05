@@ -1,0 +1,25 @@
+#header {
+    padding: 50px;
+    background: yellow;
+}
+
+#left-col {
+    background: pink;
+    float:left;
+    width: 49.5%;
+}
+
+#right-col {
+    background: blue;
+    float: right;
+    width: 49.5%;
+}
+
+#footer {
+    background:black;
+    color: white;
+    padding:60px;
+}
+.clear-fix{
+        clear:both;
+    }
